@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleIndicatorView">
+        <attr name="civ_dotColor" format="color"/>
+        <attr name="civ_dotFixedCount" format="integer"/>
+        <attr name="civ_endDotGradientCount" format="integer"/>
+        <attr name="civ_dotRadius" format="dimension"/>
+    </declare-styleable>
+</resources>
